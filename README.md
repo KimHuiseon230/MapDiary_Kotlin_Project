@@ -39,7 +39,7 @@ Kotlin과 Android Studio를 활용한 여행 후기 공유 커뮤니티 App 제�
 |------|--------|------|------|----|
 |![맵1](https://github.com/KimHuiseon230/firebaseTest23041904_repo/assets/126849356/9805d50e-148a-491f-a501-8eb5fbdaf8f2)|![맵2](https://github.com/KimHuiseon230/firebaseTest23041904_repo/assets/126849356/2de3825f-02f7-4d0d-84b6-95687db6579b)|![Screenshot_20230508-131351](https://github.com/KimHuiseon230/firebaseTest23041904_repo/assets/126849356/bf8e2ae1-c4f6-404d-8ca0-abb46a9dd55d)|![Screenshot_20230508-131658](https://github.com/KimHuiseon230/firebaseTest23041904_repo/assets/126849356/a3ce042d-1e0b-49df-a82a-93628b3fd9e4)|![Screenshot_20230508-131753](https://github.com/KimHuiseon230/firebaseTest23041904_repo/assets/126849356/9d1e7d20-0878-4250-b798-9a1c3ef8163a)|
 
-https://github.com/KimHuiseon230/HTML202305/assets/126849356/a697e215-ca18-46d2-8371-f2d6f3fe432e
+https://github.com/KimHuiseon230/MapDiary_Kotlin_Project/assets/126849356/fed241db-8cef-4772-bd09-ffe1b78067e5
 
 ● Using
 -------------
